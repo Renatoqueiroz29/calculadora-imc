@@ -1,1 +1,1 @@
->> Este é um aplicativo feito por Matheus Battisti do hora de codar
+> Este é um aplicativo feito por Matheus Battisti da comunidade hora de codar
